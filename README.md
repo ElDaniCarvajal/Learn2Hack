@@ -37,6 +37,7 @@ Repositorio con material necesario para aprender hacking.
       
 # Material de estudio
   # Lista de conocimientos basico
+   - Desarrollo Web - https://www.w3schools.com/
   # Libros
   # Cursos
     - https://www.hacker101.com/videos
