@@ -30,7 +30,7 @@ Repositorio con material necesario para aprender hacking.
      # Onine Testing Sites
       - XSS Game - https://xss-game.appspot.com/
       - Pico CTF - https://picoctf.com/
-      - Defend the web - https://defendtheweb.ne
+      - Defend the web - https://defendtheweb.net
       - HacktheBox - https://www.hackthebox.eu/
       - Try Hack Me - https://tryhackme.com/
       - Hacker 101 - https://ctf.hacker101.com/
