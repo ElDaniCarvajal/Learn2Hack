@@ -39,6 +39,20 @@ Repositorio con material necesario para aprender hacking.
   # Libros
   # Cursos
   # Blogs
+    - BackTrack Academy - https://backtrackacademy.com/blog
+    - Nesuss - https://es-la.tenable.com/research
+    - El lado del Mal - https://www.elladodelmal.com/
+    - PortSwingger - https://portswigger.net/research/articles
+    - Null Byte - https://null-byte.wonderhowto.com/
   # Foros
+    - Underc0de - https://underc0de.org/foro/
+    - HackxCrack - http://www.hackxcrack.es/forum
+    - ElHacker.net - https://foro.elhacker.net/
+    - 0x00Sec - https://0x00sec.org/
+    - Nulled.to - https://www.nulled.to/
+  # Canales de Youtube
   # Noticias
   # Documentacion
+  # Terminologia
+
+- Canal de Discord: https://discord.gg/U9J2ra9
