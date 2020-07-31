@@ -15,4 +15,14 @@ Repositorio con material necesario para aprender hacking.
       - Bug Track - http://www.bugtraq-apps.com/downloads.html
       - Xiaopan - https://xiaopan.co/downloads/
       - Wifilax - https://mega.nz/#!5gdEwYhI!BWSTIR8uOwNSYFKtvhimaz8QqHmNPIj5lZBQq0IF_yw
-    # Testing OS
+    # Testing Tools
+      - Owasp Bricks - https://sourceforge.net/projects/owaspbricks/
+      - DVWA - http://www.dvwa.co.uk/
+      - Mutillidae - https://github.com/webpwnized/mutillidae
+      - bWAPP - https://sourceforge.net/projects/bwapp/
+      - Metasploitable 2 - https://sourceforge.net/projects/metasploitable/files/Metasploitable2/
+      - Metasploitable 3 - https://github.com/rapid7/metasploitable3
+      - Web For Pentesters I - https://pentesterlab.com/exercises/web_for_pentester/course
+      - Web For Pentesters II - https://pentesterlab.com/exercises/web_for_pentester_II/course
+      - Pentester labs - https://pentesterlab.com/exercises
+      
