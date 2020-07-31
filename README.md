@@ -40,6 +40,8 @@ Repositorio con material necesario para aprender hacking.
   # Libros
   # Cursos
     - https://www.hacker101.com/videos
+    - https://platzi.com/
+    
   # Blogs
     - BackTrack Academy - https://backtrackacademy.com/blog
     - Nesuss - https://es-la.tenable.com/research
@@ -57,6 +59,8 @@ Repositorio con material necesario para aprender hacking.
     - Israel Perez - https://www.youtube.com/channel/UCKOF5FGpvehulFOZkkxTWuw/videos
     - Hack Wise - https://www.youtube.com/c/hackwise/videos
     - Luis Cambero - https://www.youtube.com/c/LuisCambero/videos
+    - Platzi - https://www.youtube.com/user/mejorandolaweb
+    - Defcon - https://www.youtube.com/user/DEFCONConference/videos
     - Black Hat- https://www.youtube.com/c/BlackHatOfficialYT/videos
     - Owasp - https://www.youtube.com/channel/UCe8j61ABYDuPTdtjItD2veA
     - Happy Hacking - https://www.youtube.com/c/HackhappyOrg/videos
@@ -84,6 +88,7 @@ Repositorio con material necesario para aprender hacking.
     - Alonso Caballero - https://www.youtube.com/c/AlonsoCaballero/videos
     - Seytonic - https://www.youtube.com/channel/UCW6xlqxSY3gGur4PkGPEUeA
     -Ed Team - https://www.youtube.com/c/EDteam/videos
+    - Love is in the net- https://www.youtube.com/channel/UC5YMy2PA1CvKYI3u5rJvhVQ
   # Noticias
     
   # Documentacion
