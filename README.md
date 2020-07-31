@@ -33,11 +33,13 @@ Repositorio con material necesario para aprender hacking.
       - Defend the web - https://defendtheweb.ne
       - HacktheBox - https://www.hackthebox.eu/
       - Try Hack Me - https://tryhackme.com/
+      - Hacker 101 - https://ctf.hacker101.com/
       
 # Material de estudio
   # Lista de conocimientos basico
   # Libros
   # Cursos
+    - https://www.hacker101.com/videos
   # Blogs
     - BackTrack Academy - https://backtrackacademy.com/blog
     - Nesuss - https://es-la.tenable.com/research
@@ -51,7 +53,39 @@ Repositorio con material necesario para aprender hacking.
     - 0x00Sec - https://0x00sec.org/
     - Nulled.to - https://www.nulled.to/
   # Canales de Youtube
+    - OHCS - https://www.youtube.com/c/OHCSe/videos?view_as=subscriber
+    - Israel Perez - https://www.youtube.com/channel/UCKOF5FGpvehulFOZkkxTWuw/videos
+    - Hack Wise - https://www.youtube.com/c/hackwise/videos
+    - Luis Cambero - https://www.youtube.com/c/LuisCambero/videos
+    - Black Hat- https://www.youtube.com/c/BlackHatOfficialYT/videos
+    - Owasp - https://www.youtube.com/channel/UCe8j61ABYDuPTdtjItD2veA
+    - Happy Hacking - https://www.youtube.com/c/HackhappyOrg/videos
+    - Chema Alonso - https://www.youtube.com/channel/UCyWThJMZwww85BDKIJuigew
+    - Open Security Training - https://www.youtube.com/user/OpenSecurityTraining/videos
+    - Security Tube - https://www.youtube.com/user/TheSecurityTube/videos
+    - Hack Security - https://www.youtube.com/user/Sycorexxx/videos 
+    - Hack Looking - https://www.youtube.com/channel/UC8U4K8pNSGlxSdZ_MNjFz1A/videos
+    - Hacking Etico Leon - https://www.youtube.com/c/Hacking%C3%89ticoLe%C3%B3n/videos
+    - Hackersploit - https://www.youtube.com/c/HackerSploit/videos
+    - Netsis Tube - https://www.youtube.com/c/NETSISTUBE/videos
+    - Gear Captian - https://www.youtube.com/c/GearCapitantutorials/videos
+    - Hak5 - https://www.youtube.com/c/hak5/videos
+    - RedTech - https://www.youtube.com/channel/UCfOoTfv_nbTvt65twtt73Uw/videos
+    - Netsec Now - https://www.youtube.com/user/NetSecNow/videos
+    - Pentester Academy - https://www.youtube.com/channel/UChjC1q6Ami7W0E71TzPZELA
+    - Xecure Labs - https://www.youtube.com/c/XecureLabs/videos
+    - Omar Palomino - https://www.youtube.com/c/OmarPalomino/videos
+    - S4vitar - https://www.youtube.com/c/s4vitar/videos
+    - Alvaro Chirou - https://www.youtube.com/c/AlvaroChirou/videos
+    - Jay z - https://www.youtube.com/c/JeyZeta/videos
+    - Seguridad para todos - https://www.youtube.com/c/DavidPereira/videos
+    - Exploiter Co - https://www.youtube.com/channel/UCK8AJUvLuhzKAeyHPpVAh0Q/videos
+    - Error 404 - https://www.youtube.com/channel/UC9ZtujTcMuBcKsV4-4G9Zxg
+    - Alonso Caballero - https://www.youtube.com/c/AlonsoCaballero/videos
+    - Seytonic - https://www.youtube.com/channel/UCW6xlqxSY3gGur4PkGPEUeA
+    -Ed Team - https://www.youtube.com/c/EDteam/videos
   # Noticias
+    
   # Documentacion
   # Terminologia
 
