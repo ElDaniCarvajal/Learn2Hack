@@ -56,7 +56,7 @@ Repositorio con material necesario para aprender hacking.
   0x00Sec - https://0x00sec.org/
   Nulled.to - https://www.nulled.to/
   # Canales de Youtube
-    - OHCS - https://www.youtube.com/c/OHCSe/videos?view_as=subscriber
+  OHCS - https://www.youtube.com/c/OHCSe/videos?view_as=subscriber
     - Israel Perez - https://www.youtube.com/channel/UCKOF5FGpvehulFOZkkxTWuw/videos
     - Hack Wise - https://www.youtube.com/c/hackwise/videos
     - Luis Cambero - https://www.youtube.com/c/LuisCambero/videos
