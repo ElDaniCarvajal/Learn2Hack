@@ -49,6 +49,8 @@ Repositorio con material necesario para aprender hacking.
     -El lado del Mal - https://www.elladodelmal.com/
     -PortSwingger - https://portswigger.net/research/articles
     -Null Byte - https://null-byte.wonderhowto.com/
+    -Medium - https://medium.com/bugbountywriteup
+    - Flue Project- https://www.flu-project.com/
   # Foros
     -Underc0de - https://underc0de.org/foro/
     -HackxCrack - http://www.hackxcrack.es/forum
@@ -92,7 +94,7 @@ Repositorio con material necesario para aprender hacking.
     -Ed Team - https://www.youtube.com/c/EDteam/videos
     - Love is in the net- https://www.youtube.com/channel/UC5YMy2PA1CvKYI3u5rJvhVQ
   # Noticias
-    
+  # Manuales
   # Documentacion
   # Terminologia
 
