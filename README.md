@@ -3,9 +3,9 @@ Repositorio con material necesario para aprender hacking.
 
 # Laboratorio de pruebas
   # Tecnologias de virtualizacion
-    - Vmware - https://www.vmware.com/mx/products/workstation-pro/workstation-pro-evaluation.html
-    - Virtual Box - https://www.virtualbox.org/
-    - Docker - https://www.docker.com/get-started
+     Vmware - https://www.vmware.com/mx/products/workstation-pro/workstation-pro-evaluation.html
+     Virtual Box - https://www.virtualbox.org/
+     Docker - https://www.docker.com/get-started
     
   # Sistemas para practicas
     # Pentesting OS
