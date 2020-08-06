@@ -2,20 +2,20 @@
 Repositorio con material necesario para aprender hacking.
 
 # Laboratorio de pruebas
-  # Tecnologias de virtualizacion
-    -Vmware - https://www.vmware.com/mx/products/workstation-pro/workstation-pro-evaluation.html
-    -Virtual Box - https://www.virtualbox.org/
-    -Docker - https://www.docker.com/get-started
+# Tecnologias de virtualizacion
+  -Vmware - https://www.vmware.com/mx/products/workstation-pro/workstation-pro-evaluation.html
+  -Virtual Box - https://www.virtualbox.org/
+  -Docker - https://www.docker.com/get-started
     
   # Sistemas para practicas
-    # Pentesting OS
+   # Pentesting OS
     -Kali Linux - https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download/
     -Parrot - https://parrotlinux.org/download/
     -Black Arch - https://blackarch.org/downloads.html
     -Bug Track - http://www.bugtraq-apps.com/downloads.html
     -Xiaopan - https://xiaopan.co/downloads/
     -Wifilax - https://mega.nz/#!5gdEwYhI!BWSTIR8uOwNSYFKtvhimaz8QqHmNPIj5lZBQq0IF_yw
-    # Testing Tools
+   # Testing Tools
       -Owasp Bricks - https://sourceforge.net/projects/owaspbricks/
       -DVWA - http://www.dvwa.co.uk/
       -Mutillidae - https://github.com/webpwnized/mutillidae
@@ -27,7 +27,7 @@ Repositorio con material necesario para aprender hacking.
       -Pentester labs - https://pentesterlab.com/exercises
       -Web Security Dojo - https://www.mavensecurity.com/resources/web-security-dojo
       -Vulnhub - https://www.vulnhub.com/
-     # Onine Testing Sites
+   # Onine Testing Sites
       -XSS Game - https://xss-game.appspot.com/
       -Pico CTF - https://picoctf.com/
       -Defend the web - https://defendtheweb.net
