@@ -55,6 +55,7 @@ Repositorio con material necesario para aprender hacking.
     -ElHacker.net - https://foro.elhacker.net/
     -0x00Sec - https://0x00sec.org/
     -Nulled.to - https://www.nulled.to/
+    -Hackplayers - https://foro.hackplayers.com/
   # Canales de Youtube
     - OHCS - https://www.youtube.com/c/OHCSe/videos?view_as=subscriber
     - Israel Perez - https://www.youtube.com/channel/UCKOF5FGpvehulFOZkkxTWuw/videos
