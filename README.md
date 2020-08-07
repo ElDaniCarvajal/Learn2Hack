@@ -52,6 +52,7 @@ Repositorio con material necesario para aprender hacking.
     - The Hacker Paylbook 3 - https://www.amazon.com/Hacker-Playbook-Practical-Penetration-Testing/dp/1980901759/ref=as_li_ss_tl?&linkCode=sl1&tag=djaxalpha-20&linkId=46abe239091c4c838fbc41630af6fd17
     - Metasploit - https://www.amazon.com/Metasploit-Penetration-Testers-David-Kennedy/dp/159327288X/ref=as_li_ss_tl?&linkCode=sl1&tag=djaxalpha-20&linkId=4177763a324ca70f4d386cac602b9985
     - Web Application Handbook - https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470/ref=as_li_ss_tl?&linkCode=sl1&tag=djaxalpha-20&linkId=5239641c4b6293b003d576ae10cc6f07
+    - Web Hacking 101 - https://dl1.newoutlook.it/book/2020/03/Web-Hacking-101-How-to-Make-Money-Hacking-Ethically.pdf
   # Cursos
     https://www.hacker101.com/videos
     https://platzi.com/
